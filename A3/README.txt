@@ -1,0 +1,3 @@
+<Question>
+
+Create and test an XHTML document that has 6 short paragraphs of text that describes various aspects of the state in which you live . You must define 3 difference paragraph styles, p1,p2 and p3. The p1 style must use left and right margins of 20 pixels, a background color of pink, and a foreground color of blue.The p2 style must use left and right margins of 30 pixels, a background color of black, and a foreground color of yellow.The p3 style must use text indent of 1cm, a background color of green, and a foreground color of white. The 1st and 4th paragraph must use p1, the 2nd and 5th must use p2, the 3rd and 6th must use p3.
